@@ -1,0 +1,23 @@
+{
+  "name": "ig-live",
+  "version": "1.0.0",
+  "description": "Stream live to instagram using Node.js and FFMPEG",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./"
+  },
+  "keywords": [
+    "Instagram",
+    "Live",
+    "stream"
+  ],
+  "author": "XI11A",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ffmpeg": "0.0.4",
+    "instagram-private-api": "^1.39.2",
+    "tree-kill": "^1.2.2"
+  },
+  "devDependencies": {}
+}
