@@ -1,4 +1,4 @@
-# stream-live-to-instagram
+# IG-Live
 stream any video live to Instagram
 
 # Usage
